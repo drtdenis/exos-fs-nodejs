@@ -1,0 +1,2 @@
+L'exercice de cet après midi est d'implementer 1 à 3 commandes linux
+ avec Node.js. Commandes à lancer depuis la ligne de commande.
